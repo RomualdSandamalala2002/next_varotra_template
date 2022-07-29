@@ -14,6 +14,9 @@ Cette bibliothèque comprend :
 - React
 - Axios
 - MongoDB client
+- Bootstrap
+- React Bootstrap
+- Sass
 
 Le structure des dossiers comprend aussi :
 
