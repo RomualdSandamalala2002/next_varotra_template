@@ -1,0 +1,9 @@
+// C'est ici qu'on surcharge les variables SCSS de Bootstrap
+// 
+// Exemple :
+// 
+// $primary-color : blue;
+
+@import '../../node_modules/bootstrap/scss/bootstrap.scss';
+
+// C'est ici qu'on crée un nouveau style
